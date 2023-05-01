@@ -49,7 +49,7 @@
           <li class="nav-item resume">
             <a
               class="resume-link"
-              href="https://drive.google.com/file/d/1HEElhKysddZwv8igYeK9f6gIG10axvjN/view"
+              href="https://drive.google.com/file/d/1oT7rhVy9NvAJp3KEuEFK6GCyVh3ezBND/view"
               target="_blank"
               rel="noopener noreferrer"
               >Resume</a
