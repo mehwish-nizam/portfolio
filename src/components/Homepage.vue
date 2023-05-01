@@ -11,7 +11,7 @@
         <transition name="intro" appear>
             <div class="container">
                 <p class="intro">
-                    Software Engineer to be &amp; Front-end Developer
+                    Software Engineer &amp; Front-end Developer
                 </p>
             </div>
         </transition> 

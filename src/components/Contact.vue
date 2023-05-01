@@ -28,16 +28,14 @@ export default {
         }
     },
     methods:{
-        sendMessage(e){
-            var contactParams = {
-                from_name: this.name,
-                form_email : this.email,
-                message: this.message,
-            }
-            console.log(contactParams);
+        async sendMessage(){
             try {
-            emailjs.send('service_at8vndn', 'template_9j13b8o', e.target,
-            '2VemSJ1mMzEOw4YeW', contactParams );
+                await emailjs.send('service_at8vndn', 'template_6jsm1mx',  {
+                    message: this.message,
+                    from_name: this.name,
+                    reply_to: this.email
+                },
+                '2VemSJ1mMzEOw4YeW');
         } catch(error) {
             console.log({error})
          }

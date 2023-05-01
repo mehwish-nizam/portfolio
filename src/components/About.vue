@@ -13,10 +13,8 @@
                     <div class="container">
                         <div class="text">
                             <p>
-                                I'm a Software Engineering Student at NED University and a front-end web developer located in Karachi.
-                                I build interactive websites and cares deeply about user's experience. I have started working as a 
-                                web developer during my studies and now I have one year experience in which I have worked on different projects,
-                                for clients ranging from individuals and small-businesses all the way to large enterprise corporations.
+                                I'm a Software Engineer graduated from NED University and a front-end web developer located in Karachi. My passion lies in building interactive websites and ensuring an exceptional user experience.
+                                With over two years of experience, I have worked on various projects, catering to clients from individuals to small businesses and large enterprise corporations. 
                             </p>
                         </div>         
                     </div>
